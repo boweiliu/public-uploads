@@ -20,6 +20,8 @@
 
 Other misc links:
 
+https://www.reddit.com/r/factorio/comments/4roxen/suggestion_add_a_save_console_command_that_doesnt/
+
 https://raw.pics.io/#
 https://raw.githubusercontent.com/kirazy/reskins-angels/master/graphics/icons/refining/intermediates/slag.png
 https://github.com/kirazy/reskins-angels/blob/34a58e3a1671348e65391f3ed705d6b01eafb9c6/prototypes/items/smelting.lua
